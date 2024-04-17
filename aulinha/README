@@ -1,3 +1,5 @@
 pip install selenium
 
 marcar 2 caixinhas na hora de baixar o python 
+
+Preciso que os dados extraidos nesse codigo python sejam armazenados em um arquivo csv
